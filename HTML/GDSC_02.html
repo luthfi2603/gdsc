@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        header, footer{
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+            box-sizing: border-box;
+            display: flex;
+            padding: 8px;
+        }
+        header, footer{
+            background-color: cornflowerblue;
+            height: 70px;
+        }
+        .col1, .col2{
+            height: calc(100vh - 140px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .col1{
+            width: 40%;
+            background-color: cyan;
+        }
+        .col2{
+            width: 60%;
+            background-color: darkturquoise;
+        }
+        main{
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+        }
+        @media only screen and (max-width: 758px) {
+            main {
+                flex-direction: column !important;
+            }
+            .col1, .col2 {
+                width: 100% !important;
+                height: calc(50vh - 70px) !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        This is header
+    </header>
+    <main>
+        <div class="col1">
+            This is left
+        </div>
+        <div class="col2">
+            This is right
+        </div>
+    </main>
+    <footer>
+        This is footer
+    </footer>
+</body>
+</html>

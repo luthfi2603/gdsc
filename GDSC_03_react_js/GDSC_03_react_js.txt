@@ -1,0 +1,85 @@
+ReactJS
+
+kenapa react js?
+
+front-end & back-end
+
+react js adalah sebuah library
+
+yang selalu ada di front-end adalah navbar
+
+ada komponen, dan komponen itu harus bisa berkomunikasi. 
+
+membuat komponen menggunakan react js, react js menjembatani setiap komponen
+
+cara belajar react paling ideal adalah dengan  dokumentasi
+
+kalau di industri tidak menggunakan cdn online atau dari link
+
+index.js sebagai utama mereturn app.js
+
+props adalah atribut name
+
+penanda array adalah []
+
+... spread (menggabungkan 2 item)
+
+<app>
+	<todo
+</app>
+
+front-end adalah bagian komunikasi antar komponen
+
+di dunia kuliah masih bisa membuat kesalahan
+
+tetapi di dunia industri tidak ada yang namanya salah
+
+ada meeting untuk membahas apa yang dikerjakan
+
+di awal harus komitmen melakukan apa
+
+jangan di dalam tim kita kerja sendiri
+
+apa aja yang dibutuhkan untuk fornt-end
+
+harus bisa hard skill dan soft skill
+
+soft skill adalah komunikasi dan networking
+
+diajakin atau kita nanyak
+
+bagaimana cara networking dengan masuk komunitas
+
+komunitas-komunitas online, soft skill yang lain adalah
+
+problem solving
+
+menjadi programmer harus bisa problem solving
+
+kalau bahasa pemrograman kita bisa berlatih dengan dokumentasi
+
+tetapi yang sebenarnya kita harus bisa problem solving
+
+SAAS menyewa sesuatu contohnya netflix, spotify, dll.
+
+lebih bagus menyewa soft ware daripada membuat karena lebih mahal dan banyak bugs atau error
+
+kuliah No. 1
+
+dan mengikuti yang lain-lain
+
+kuliah adalah tempat eksperimen yang paling aman
+
+kampus adalah lab kehidupan
+
+pekerjaan programmer adalah pekerjaan yang harus minim kesalahan
+
+memilih bahasa pemrograman itu tergantung pada nyaman atau tidak nya kita
+
+dan harus konsisten pada bahasa tersebut
+
+junior : kurang pengalaman
+
+senior : ditanya tentang bagaimana dia sebelumnya
+
+front-end

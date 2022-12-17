@@ -1,0 +1,36 @@
+GDSC PHP
+
+PHP tidak muncul di inspect
+
+untuk menghubungkan variabel dan string menggunakan (.)titik
+
+fungsi unset untuk menghapus isi array
+
+foreach mengurutkan siapa dulu yang ditambahkan secara berurutan
+
+print_r($nama_variabel);
+
+mengisi pada index terakhir
+$array[] = "text";
+
+array asosiatif
+sebuah array yang index nya string
+menggunakan key dan value
+
+method POST dan GET
+GET muncul di url sedangkan POST tidak muncul
+
+ke halaman lain dengan menggunakan action="..."
+
+wajib menggunakan as di foreach
+
+<?php
+
+?> (tag penutup bisa tidak dipakai jika semua source code nya bahasa php)
+
+<?php
+   echo"...";
+?>
+
+bisa disingkat dengan
+<?= "..." ?>
