@@ -1,1 +1,2 @@
 tulisan 1
+tulisan 2

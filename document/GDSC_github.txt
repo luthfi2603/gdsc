@@ -1,0 +1,8 @@
+Job di dunia harus tau git
+
+git -v // ngecek
+git init // inisialisasi git di dalam sebuah folder
+local, working directory, staging, repositori
+git add . /*memasukkan semua file*/ bisa jugak git add nama_file
+git commit -m "first commit"
+git log -- online
