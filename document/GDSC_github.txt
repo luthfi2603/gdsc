@@ -8,3 +8,10 @@ git commit -m "first commit"
 git log --online /**/
 git diff /*melihat perubahan di working directory*/
 git diff --cached /*melihat perubahan di staging area*/
+git status /*melihat perubahan yang belum dicommit*/
+git branch /*melihat cabang branch*/
+git branch -r /*melihat remote*/
+git branch nama_branch /*membuat branch baru*/
+/*kalau kita melakukan perubahan di branch berbeda maka itu tidak akan berbeda*/
+git checkout nama_branch /*merubah branch*/
+git merge branch_lain /*menyatukan branch*/
