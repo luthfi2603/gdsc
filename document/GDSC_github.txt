@@ -15,3 +15,5 @@ git branch nama_branch /*membuat branch baru*/
 /*kalau kita melakukan perubahan di branch berbeda maka itu tidak akan berbeda*/
 git checkout nama_branch /*merubah branch*/
 git merge branch_lain /*menyatukan branch*/
+
+dari target ke sekarang
