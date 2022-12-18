@@ -5,7 +5,7 @@ git init // inisialisasi git di dalam sebuah folder
 local, working directory, staging, repositori
 git add . /*memasukkan semua file*/ bisa jugak git add nama_file
 git commit -m "first commit"
-git log --online /**/
+git log --oneline /*melihat perubahan commit*/
 git diff /*melihat perubahan di working directory*/
 git diff --cached /*melihat perubahan di staging area*/
 git status /*melihat perubahan yang belum dicommit*/
@@ -17,3 +17,25 @@ git checkout nama_branch /*merubah branch*/
 git merge branch_lain /*menyatukan branch*/
 
 dari target ke sekarang
+
+readme /*untuk membuat kata pengantar yang dinamakan*/
+gitignore /*mengecualikan file*/
+
+create new repository
+git remote add origin ...
+
+/*melihat remote*/
+git remote
+git remote -v
+
+git push -u origin nama_branch
+
+// git config --global user.email 'email_nya'
+
+git clone url dari github // clone sesuatu dari github
+
+git revert code_commit /*menghapus perubahan pada suatu commit dan mencatat penghapusan tersebut pada commit baru*/
+tekan i
+masukkan pesan di line yang berwarna kuning
+tekan escape
+ketik :x
