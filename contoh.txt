@@ -1,4 +1,1 @@
 tambah tulisan 1
-tambah tulisan 2
-tambah tulisan 3
-perubahan di working direktori
