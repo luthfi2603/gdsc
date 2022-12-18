@@ -34,6 +34,7 @@ sebelum diadd sebelum dicommit
 git diff --cached
 /*melihat perubahan di staging area*/
 setelah diadd sebelum dicommit
+jika stack maka click huruf q
 
 git status
 /*melihat perubahan yang belum dicommit*/
